@@ -20,4 +20,4 @@ io.on("connection", function(socket){
     });
 })
 
-server.listen(sheekweas.github.io/chatroom/);
+server.listen(5000);
